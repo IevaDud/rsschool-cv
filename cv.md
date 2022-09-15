@@ -7,3 +7,10 @@
 <div> * Basics of HTML, CSS and Javascript programming languages. </div>
 <div> * Agile Methodology. </div>
 <div> * Azure Tool. </div>
+<div> Code Examples: </div>
+<p> Unfortunately I can't show my latest code examples, because it is considered classified information, because I did them for work, but I can show latest Javacript code I did in freecodecamp.org course called 'JavaScript Algorithms and Data Structures'. Keep in mind, in this website for Javascript you only need to add couple code lines: </p>
+<div> userObj.data.friends.push(friend); </div>
+<div> return userObj.data.friends; </div>
+<p> The Link to freecodecamp.org certificate: https://freecodecamp.org/certification/fcc88f7ca2d-513d-40cc-8b09-4070158d6516/responsive-web-design </p>
+<div> Experience: </div>
+<p> I have finished a 'Legacy Responsive Web Design'course in freecodecamp.org, for which I had to do a Tribute Page, Survey Form, Product Landing Page, Technical Documentation Page and Personal Portfolio Webpage using HTML and CSS programming languages. Also almost finished the course 'Javascript Algorithms and Data Structures' on the same website. At work I have changed date formats on our product's website and fixed a bug regarding missing product's translations. </p>
