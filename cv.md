@@ -14,3 +14,10 @@
 <p> The Link to freecodecamp.org certificate: https://freecodecamp.org/certification/fcc88f7ca2d-513d-40cc-8b09-4070158d6516/responsive-web-design </p>
 <div> Experience: </div>
 <p> I have finished a 'Legacy Responsive Web Design'course in freecodecamp.org, for which I had to do a Tribute Page, Survey Form, Product Landing Page, Technical Documentation Page and Personal Portfolio Webpage using HTML and CSS programming languages. Also almost finished the course 'Javascript Algorithms and Data Structures' on the same website. At work I have changed date formats on our product's website and fixed a bug regarding missing product's translations. </p>
+<div> Education: </div>
+<div> *  Bachelor's degree in Sociology, graduating in 2025. </div>
+<div> * 'Legacy Responsive Web Design' certificate in freecodecamp.org. </div>
+<div> *  'JavaScript Algorithms and Data Structures' course in freecodecamp.org. </div>
+<div> English: </div>
+<div> * 2 semesters in University of Academic English (C1 level). </div>
+<div> * Have been working in an International Company for 1 year and 3 months, therefore, I use English language to communicate with colleagues or clients almost every single day. </div>
